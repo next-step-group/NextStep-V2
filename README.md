@@ -50,6 +50,8 @@ The NextStep NPM Package imports the functionality to monitor the developer's Ne
 
     	import { reportWebVitals } from "next-step-metrics";
         export { reportWebVitals };
+
+5. Toggle NextStep to On from the VS Code status bar, and run your Next.js application script. Updated metrics will begin to appear in your Output panel every time the webpage refreshes. 
     
 ## <a name="usage"></a>Usage
 
